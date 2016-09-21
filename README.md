@@ -15,3 +15,7 @@
 
 6、结构性（适配器） Adapter Class/Object
 在OC中通常使用对象适配器，在这里单继承的方式使得我们需要使用protocol来实现，优秀的例子就是tableview
+
+7、桥接 Bridge
+
+
