@@ -88,6 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				2DA52F001D92217E009E13E8 /* main.m */,
+				2DA52F251D922A6E009E13E8 /* New Group */,
 				2DA52F071D92223A009E13E8 /* CPUBase.h */,
 				2DA52F081D92223A009E13E8 /* CPUBase.m */,
 				2DA52F0A1D922417009E13E8 /* IntelCPU.h */,
@@ -110,6 +111,13 @@
 				2DA52F1A1D922596009E13E8 /* ComputerEngineer.m */,
 			);
 			path = AbstractFactory;
+			sourceTree = "<group>";
+		};
+		2DA52F251D922A6E009E13E8 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

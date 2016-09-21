@@ -4,3 +4,5 @@
 1、工厂模式FactoryMethod
 
 2、抽象工厂AbstractFactory
+
+3、建造者模式Builder Pattern
