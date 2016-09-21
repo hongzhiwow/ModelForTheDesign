@@ -18,4 +18,7 @@
 
 7、桥接 Bridge
 
+8、组合 Composite
+
+
 
