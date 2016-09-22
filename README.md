@@ -21,4 +21,13 @@
 8、组合 Composite
 
 
+9、装饰 Decorator
+
+
+
+
+
+
+
+
 
